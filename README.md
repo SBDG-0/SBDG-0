@@ -1,5 +1,7 @@
 # Hello there!
 
+> ✉️ Contact: [savagebulldog.og@gmail.com](mailto:savagebulldog.og@gmail.com)
+
 <table align="right">
   <tr>
     <th align="center">Other Platforms</th>
@@ -7,37 +9,32 @@
   <tr>
     <td align="center">
       <a href="https://www.patreon.com/c/SavageBulldogOG">
-        <img title="Patreon" height="42" align="center" src="./.images/patreon.png">
+        <img title="Patreon" height="42" width="100" src="./.images/patreon.png">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://www.moddb.com/members/savagebulldog/addons">
-        <img title="Moddb" width="100" align="center" src="./.images/moddb.png">
+        <img title="Moddb" height="42" width="100"  src="./.images/moddb.png">
       </a>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td align="center">
       <a href="https://www.steamgriddb.com/profile/76561198051214692">
         <img title="SteamGridDB" height="42" width="100" align="center" src="./.images/steamgriddb.svg">
       </a>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td align="center">
       <a href="https://vosan.co/user/SavageBulldogOG?tab=mods">
-        <img title="Vosan.co" width="100" align="center" src="./.images/vosan.png">
+        <img title="Vosan.co" height="42" width="100" src="./.images/vosan.png">
       </a>
     </td>
   </tr>
 </table>
-
-
-> ✉️ Contact: [savagebulldog.og@gmail.com](mailto:savagebulldog.og@gmail.com)
-
-<!-- <img align="right" alt="image" width="200" src="" /> -->
 
 ### 🛠️ Skills
 
