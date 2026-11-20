@@ -7,7 +7,7 @@
   <tr>
     <td align="center">
       <a href="https://www.patreon.com/c/SavageBulldogOG">
-        <img title="Patreon" height="42" align="center" src="./.images/patreon.svg">
+        <img title="Patreon" height="42" align="center" src="./.images/patreon.png">
       </a>
     </td>
   </tr>
