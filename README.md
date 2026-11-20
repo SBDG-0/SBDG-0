@@ -50,11 +50,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![Game](https://skillicons.dev/icons?i=blender,unity,unreal)
 
-## Description
+## What do i do?
 
 I build tools, mods, and small utilities for the games and software I use.
 
-### 👷🏼‍♂️ Working on
+### What am i working on?
 
 - **S.T.A.L.K.E.R. Anomaly:** visual tools for XML layouts and icon configuration, plus patches and small mods.
 - **Assetto Corsa:** CSP Lua apps and a Rust rebuild of the community-modified ksEditorAt.
