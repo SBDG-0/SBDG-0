@@ -9,14 +9,14 @@
   <tr>
     <td align="center">
       <a href="https://www.patreon.com/c/SavageBulldogOG">
-        <img title="Patreon" height="42" width="100" src="./.images/patreon.png">
+        <img title="Patreon" width="105" align="center" src="./.images/patreon.png">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://www.moddb.com/members/savagebulldog/addons">
-        <img title="Moddb" height="42" width="100"  src="./.images/moddb.png">
+        <img title="Moddb" width="105"  align="center" src="./.images/moddb.png">
       </a>
     </td>
   </tr>
@@ -30,7 +30,7 @@
   <tr>
     <td align="center">
       <a href="https://vosan.co/user/SavageBulldogOG?tab=mods">
-        <img title="Vosan.co" height="42" width="100" src="./.images/vosan.png">
+        <img title="Vosan.co" width="105" align="center" src="./.images/vosan.png">
       </a>
     </td>
   </tr>
