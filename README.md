@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-### 🛠️ Skills
+### 🛠️
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![Web](https://skillicons.dev/icons?i=angular,react,css,html)
@@ -48,11 +48,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![Game](https://skillicons.dev/icons?i=blender,unity,unreal)
 
-## What do i do?
+## 📝
 
 I build tools, mods, and small utilities for the games and software I use.
 
-### What am i working on?
+### 
 
 - **S.T.A.L.K.E.R. Anomaly:** visual tools for XML layouts and icon configuration, plus patches and small mods.
 - **Assetto Corsa:** CSP Lua apps and a Rust rebuild of the community-modified ksEditorAt.
@@ -62,12 +62,6 @@ I build tools, mods, and small utilities for the games and software I use.
 ## Projects
 
 <table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>What it does</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td width="255" nowrap="nowrap"><a href="https://github.com/SBDG-0/crispy_stalker_anomaly">Crispy S.T.A.L.K.E.R. Anomaly</a></td>
@@ -96,7 +90,7 @@ I build tools, mods, and small utilities for the games and software I use.
   </tbody>
 </table>
 
-### Work in progress - unreleased
+### Work in progress
 
 <table>
     <tr>
