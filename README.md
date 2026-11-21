@@ -81,7 +81,11 @@ I build tools, mods, and small utilities for the games and software I use.
     </tr>
     <tr>
       <td><a href="https://github.com/SBDG-0/crispy_ModOrganizer2_junction_manager">Mod Organizer 2 Junction Manager</a></td>
-      <td>Custom QSS styling and a grouped icon reference with previews and copyable rules.</td>
+      <td>A Windows Mod Organizer 2 plugin to create, manage and view directory junctions</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/SBDG-0/crispy_ModOrganizer2_external_file_manager">Mod Organizer 2 External File Manager</a></td>
+      <td>Opens Mod Organizer 2 folders directly in OneCommander or another configured file manager.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/SBDG-0/_redact_filenames_on_rightclick_ps">Redact Filenames on Right-Click</a></td>
