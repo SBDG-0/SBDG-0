@@ -1,4 +1,4 @@
-# Hello there!
+# 
 
 > ✉️ Contact: [savagebulldog.og@gmail.com](mailto:savagebulldog.og@gmail.com)
 
@@ -36,20 +36,11 @@
   </tr>
 </table>
 
+<!--
 ### 🛠️
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-![Web](https://skillicons.dev/icons?i=angular,react,css,html)
-&nbsp;&nbsp;&nbsp;&nbsp;
-![Code](https://skillicons.dev/icons?i=dotnet,windows,visualstudio,vscode)
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-![Code](https://skillicons.dev/icons?i=lua,rust,github,git)
-&nbsp;&nbsp;&nbsp;&nbsp;
-![Game](https://skillicons.dev/icons?i=blender,unity,unreal)
-
 ## 📝
-
+-->
 I build tools, mods, and small utilities for the games and software I use.
 
 ### 
@@ -115,7 +106,17 @@ Some projects are still evolving. Check each repository for its current requirem
 
 For project questions, bug reports, or suggestions, check the relevant repository for its available discussion and issue options.
 
-## ⚒️ Languages and tools
+## Languages and tools
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Web](https://skillicons.dev/icons?i=angular,react,css,html)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Code](https://skillicons.dev/icons?i=dotnet,windows,visualstudio,vscode)
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Code](https://skillicons.dev/icons?i=lua,rust,github,git)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Game](https://skillicons.dev/icons?i=blender,unity,unreal)
 
 My current projects use **Rust**, **Lua**, **PowerShell**, and **QSS**, along with **XML/LTX** configuration and **Git** for version control.
 
@@ -144,7 +145,7 @@ Projects on other platforms include **Blender**, **Unity**, **Unreal**, **PhotoC
 
 <!-- end of block -->
 
-## 🎧 Spotify currently playing
+## Spotify currently playing
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -152,7 +153,7 @@ Projects on other platforms include **Blender**, **Unity**, **Unreal**, **PhotoC
   </a>
 </p>
 
-## 💖 Support my Projects
+## Support my Projects
 
 Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
 
