@@ -89,12 +89,8 @@ I build tools, mods, and small utilities for the games and software I use.
 
 <table>
     <tr>
-        <td width="150" nowrap="nowrap"><a href="https://github.com/SBDG-0/crispy_anomaly_ui_studio"></a>Anomaly UI Studio</td>
+        <td width="150" nowrap="nowrap"><a href="https://github.com/SBDG-0/crispy_Anomaly_UI_Studio">Anomaly UI Studio</a></td>
         <td>A Rust/egui editor for inspecting Anomaly XML layouts, adjusting rectangles visually, and exporting changes.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/SBDG-0/crispy_Anomaly_Icon_Studio"></a>Anomaly Icon Studio</td>
-        <td>A native tool for inspecting and editing Anomaly icon configuration, with DDS atlas previews.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/SBDG-0/crispy_KsEditor-"></a>KsEditor+</td>
